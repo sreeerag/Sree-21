@@ -1,0 +1,8 @@
+telnet 10.10.112.41 515 ... Connected
+telnet 10.55.1.59 515 ... Connected
+telnet 10.91.1.13 515 ... Connected
+telnet 10.91.26.12 515 ... Connected
+telnet 10.92.37.112 515 ... Connected
+telnet 10.92.37.113 515 ... Connected
+telnet 172.17.49.24 515 ... Connected
+telnet 172.17.49.71 515 ... Connected
